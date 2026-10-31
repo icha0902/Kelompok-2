@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "scraped_at": "2026-10-31T10:01:42.537748",
+    "target_url": "https://x.com/kompascom/status/2110998924009820466",
+    "total_comments_extracted": 4
+  },
+  "tweet_induk": {
+    "url": "https://x.com/kompascom/status/2110998924009820466",
+    "author": "kompascom",
+    "name": "Kompas.com",
+    "text": "Baca di sini: https://megapolitan.kompas.com/read/2026/10/16/11563301/waspada-asap-karhutla-kalimantan-sudah-masuk-atmosfer-jakarta \n\nBMKG mendeteksi asap karhutla dari Kalimantan memasuki atmosfer Jakarta, Banten, dan Jawa Barat, tetapi belum mencapai permukaan tanah. Bagaimana masyarakat dapat memantau kualitas udara dan mengantisipasi dampak asap karhutla?\n\n~KR #BMKG #AsapKarhutla #newsplay [2026101611563301]",
+    "created_at": "2026-10-16T07:38:58.000Z",
+    "likes": 232,
+    "retweets": 159,
+    "replies": 23,
+    "views": 16534,
+    "bookmarks": 16,
+    "topic": "kompascom",
+    "sub_topic": "BMKG: Asap Karhutla Kalimantan Masuk Atmosfer Jakarta"
+  },
+  "komentar": [
+    {
+      "id_komentar": "c_2111049143120699533",
+      "id_tweet": "2110998924009820466",
+      "username": "dwisugiartobdg",
+      "nama_pengguna": "dsgt_ menikmati_kopi",
+      "tanggal": "2026-10-16 10:58:31",
+      "teks_komentar": "@kompascom Kalo beneran asap yg sampe di Jkt dan Jabar sama masifnya dengan asap di Kalimantan siap2 Wowo didemo besar2an sampe dikejar ke Hambalang dan Tedi diplorotin kolornya. Waspadalah!",
+      "reply_to": "kompascom",
+      "likes": 57,
+      "retweets": 11,
+      "replies": 3,
+      "topic": "kompascom",
+      "url_komentar": "https://x.com/dwisugiartobdg/status/2111049143120699533",
+      "source_tweet": "https://x.com/kompascom/status/2110998924009820466"
+    },
+    {
+      "id_komentar": "c_2111013292164735365",
+      "id_tweet": "2110998924009820466",
+      "username": "zrep2024",
+      "nama_pengguna": "KORBAN KEBIADABAN KEMENLU",
+      "tanggal": "2026-10-16 08:36:00",
+      "teks_komentar": "Penanganan karhutla terburuk sepanjang sejarah negeri ini.",
+      "reply_to": "kompascom",
+      "likes": 18,
+      "retweets": 1,
+      "replies": 2,
+      "topic": "kompascom",
+      "url_komentar": "https://x.com/zrep2024/status/2111013292164735365",
+      "source_tweet": "https://x.com/kompascom/status/2110998924009820466"
+    },
+    {
+      "id_komentar": "c_2111029220352950312",
+      "id_tweet": "2110998924009820466",
+      "username": "RickyGrimewgup",
+      "nama_pengguna": "Ricky Grimes",
+      "tanggal": "2026-10-16 09:39:00",
+      "teks_komentar": "Gpp dah biar orang pusat rasain juga penderitaan saudara-saudara kita, kalo sampe orang pusat itu masih ngomong 'kita bisa atasi sendiri'. Akibat gengsi gede, sekarang bom waktunya meledak bersamaan.",
+      "reply_to": "kompascom",
+      "likes": 64,
+      "retweets": 12,
+      "replies": 6,
+      "topic": "kompascom",
+      "url_komentar": "https://x.com/RickyGrimewgup/status/2111029220352950312",
+      "source_tweet": "https://x.com/kompascom/status/2110998924009820466"
+    },
+    {
+      "id_komentar": "c_2111054329108429102",
+      "id_tweet": "2110998924009820466",
+      "username": "banten_airwatch",
+      "nama_pengguna": "Langit Bersih Banten",
+      "tanggal": "2026-10-16 11:20:00",
+      "teks_komentar": "Di Tangerang dan Serang langit sudah mulai tampak kuning keruh berkabut. Bau sangit tercium kalau pagi hari. BMKG tolong update terus indeks ISPU!",
+      "reply_to": "kompascom",
+      "likes": 45,
+      "retweets": 8,
+      "replies": 1,
+      "topic": "kompascom",
+      "url_komentar": "https://x.com/banten_airwatch/status/2111054329108429102",
+      "source_tweet": "https://x.com/kompascom/status/2110998924009820466"
+    }
+  ]
+}

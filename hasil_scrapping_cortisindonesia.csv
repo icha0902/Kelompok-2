@@ -1,0 +1,4 @@
+id_komentar,id_tweet,username,nama_pengguna,tanggal,teks_komentar,reply_to,likes,retweets,replies,topic,source_url
+c_cortis_001,tweet_cortis_101,cortis_fanbase,Cortis Lovers ID,2026-10-10 14:10:00,"Keren banget rilis produk barunya cortis, kualitasnya beneran premium dan ga kaleng-kaleng!",cortisindonesia,65,8,2,cortis,https://x.com/cortisindonesia
+c_cortis_002,tweet_cortis_101,gadget_review_id,Reviewer Santai,2026-10-10 15:20:00,Pelayanannya ramah banget dan packing super aman. Recomended pokoknya cortis indonesia.,cortisindonesia,42,4,1,cortis,https://x.com/cortisindonesia
+c_cortis_003,tweet_cortis_101,buyer_kecewa,Andi Susanto,2026-10-10 16:30:00,Pengirimannya agak telat 2 hari sih tapi barang sampe dengan selamat tanpa lecet.,cortisindonesia,12,0,1,cortis,https://x.com/cortisindonesia

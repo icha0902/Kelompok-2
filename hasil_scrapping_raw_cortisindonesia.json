@@ -1,0 +1,47 @@
+{
+  "target": "cortisindonesia",
+  "raw": [
+    {
+      "id_komentar": "c_cortis_001",
+      "id_tweet": "tweet_cortis_101",
+      "username": "cortis_fanbase",
+      "nama_pengguna": "Cortis Lovers ID",
+      "tanggal": "2026-10-10 14:10:00",
+      "teks_komentar": "Keren banget rilis produk barunya cortis, kualitasnya beneran premium dan ga kaleng-kaleng!",
+      "reply_to": "cortisindonesia",
+      "likes": 65,
+      "retweets": 8,
+      "replies": 2,
+      "topic": "cortis",
+      "source_url": "https://x.com/cortisindonesia"
+    },
+    {
+      "id_komentar": "c_cortis_002",
+      "id_tweet": "tweet_cortis_101",
+      "username": "gadget_review_id",
+      "nama_pengguna": "Reviewer Santai",
+      "tanggal": "2026-10-10 15:20:00",
+      "teks_komentar": "Pelayanannya ramah banget dan packing super aman. Recomended pokoknya cortis indonesia.",
+      "reply_to": "cortisindonesia",
+      "likes": 42,
+      "retweets": 4,
+      "replies": 1,
+      "topic": "cortis",
+      "source_url": "https://x.com/cortisindonesia"
+    },
+    {
+      "id_komentar": "c_cortis_003",
+      "id_tweet": "tweet_cortis_101",
+      "username": "buyer_kecewa",
+      "nama_pengguna": "Andi Susanto",
+      "tanggal": "2026-10-10 16:30:00",
+      "teks_komentar": "Pengirimannya agak telat 2 hari sih tapi barang sampe dengan selamat tanpa lecet.",
+      "reply_to": "cortisindonesia",
+      "likes": 12,
+      "retweets": 0,
+      "replies": 1,
+      "topic": "cortis",
+      "source_url": "https://x.com/cortisindonesia"
+    }
+  ]
+}

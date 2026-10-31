@@ -1,0 +1,33 @@
+{
+  "target": "ejaaipongg",
+  "raw": [
+    {
+      "id_komentar": "c_eja_001",
+      "id_tweet": "tweet_eja_201",
+      "username": "tiktokers_indo",
+      "nama_pengguna": "Netizen TikTok",
+      "tanggal": "2026-10-14 19:00:00",
+      "teks_komentar": "Konten ejaaipongg selalu menghibur dan lucu parah, ga pernah bosen nonton!",
+      "reply_to": "ejaaipongg",
+      "likes": 110,
+      "retweets": 15,
+      "replies": 8,
+      "topic": "ejaaipongg",
+      "source_url": "https://x.com/ejaaipongg"
+    },
+    {
+      "id_komentar": "c_eja_002",
+      "id_tweet": "tweet_eja_201",
+      "username": "suka_ngakak",
+      "nama_pengguna": "Rian Humor",
+      "tanggal": "2026-10-14 20:15:00",
+      "teks_komentar": "Semangat terus bikin konten positif ya bang ejaaipongg, sukses selalu!",
+      "reply_to": "ejaaipongg",
+      "likes": 85,
+      "retweets": 7,
+      "replies": 3,
+      "topic": "ejaaipongg",
+      "source_url": "https://x.com/ejaaipongg"
+    }
+  ]
+}

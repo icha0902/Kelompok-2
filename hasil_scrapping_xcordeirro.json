@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "scraped_at": "2026-10-31T09:58:38.973592",
+    "target_url": "https://x.com/xcordeirro/status/2109412186670133636",
+    "total_comments_extracted": 4
+  },
+  "tweet_induk": {
+    "url": "https://x.com/xcordeirro/status/2109412186670133636",
+    "author": "xcordeirro",
+    "name": "cordeiro",
+    "text": "merinding setiap kali liatin postingan tentang karhutla yang terjadi di beberapa daerah di indonesia 😢",
+    "created_at": "2026-10-11T22:33:00.000Z",
+    "likes": 9200,
+    "retweets": 2300,
+    "replies": 16,
+    "views": 47600,
+    "bookmarks": 58,
+    "topic": "karhutla",
+    "sub_topic": "Dampak Emosional dan Ngeri Karhutla"
+  },
+  "komentar": [
+    {
+      "id_komentar": "c_2109413444172779528",
+      "id_tweet": "2109412186670133636",
+      "username": "konoholicx",
+      "nama_pengguna": "konoh",
+      "tanggal": "2026-10-11 22:38:00",
+      "teks_komentar": "sumpah beneran separah itu ternyata, liat video langit merah pekat kaya neraka. Kasihan banget warga lokal dan satwa liar ga bisa nafas.",
+      "reply_to": "xcordeirro",
+      "likes": 76,
+      "retweets": 11,
+      "replies": 1,
+      "topic": "karhutla",
+      "url_komentar": "https://x.com/konoholicx/status/2109413444172779528",
+      "source_tweet": "https://x.com/xcordeirro/status/2109412186670133636"
+    },
+    {
+      "id_komentar": "c_2109415829104820194",
+      "id_tweet": "2109412186670133636",
+      "username": "bintang_kejora9",
+      "nama_pengguna": "Bintang Kejora",
+      "tanggal": "2026-10-11 23:05:00",
+      "teks_komentar": "Gua nangis liat induk orangutan peluk anaknya sambil batuk-batuk di tengah abu hutan. Tolong siapapun selamatkan mereka!",
+      "reply_to": "xcordeirro",
+      "likes": 92,
+      "retweets": 24,
+      "replies": 3,
+      "topic": "karhutla",
+      "url_komentar": "https://x.com/bintang_kejora9/status/2109415829104820194",
+      "source_tweet": "https://x.com/xcordeirro/status/2109412186670133636"
+    },
+    {
+      "id_komentar": "c_2109418901238910451",
+      "id_tweet": "2109412186670133636",
+      "username": "borneo_fighter",
+      "nama_pengguna": "Putra Dayak",
+      "tanggal": "2026-10-11 23:40:00",
+      "teks_komentar": "Kami di Sampit udah hampir sebulan ga liat matahari, dada sakit batuk terus ga sembuh-sembuh.",
+      "reply_to": "xcordeirro",
+      "likes": 54,
+      "retweets": 8,
+      "replies": 2,
+      "topic": "karhutla",
+      "url_komentar": "https://x.com/borneo_fighter/status/2109418901238910451",
+      "source_tweet": "https://x.com/xcordeirro/status/2109412186670133636"
+    },
+    {
+      "id_komentar": "c_2109421004128919012",
+      "id_tweet": "2109412186670133636",
+      "username": "savetheforest_id",
+      "nama_pengguna": "Lestari Alam Nusantara",
+      "tanggal": "2026-10-12 00:15:00",
+      "teks_komentar": "Habitat satwa langka kita musnah dalam sekejap karena ulah oknum pembakar lahan tak beradab.",
+      "reply_to": "xcordeirro",
+      "likes": 68,
+      "retweets": 15,
+      "replies": 0,
+      "topic": "karhutla",
+      "url_komentar": "https://x.com/savetheforest_id/status/2109421004128919012",
+      "source_tweet": "https://x.com/xcordeirro/status/2109412186670133636"
+    }
+  ]
+}
